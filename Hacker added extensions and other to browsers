@@ -1,0 +1,6 @@
+2020-04-02 18:50:39.122 [Info] > XCGLogger writing log to: file:///var/mobile/Containers/Data/Application/0D797F25-A8F8-4FFC-9AE9-E1EB9D433EEB/Library/Caches/Logs/browser.20200402T185039-0400.log
+2020-04-02 18:50:39.122 [Info] [RollingFileLogger.swift:46] newLogWithDate(_:) > Created file destination for logger with root: browser and timestamp: 2020-04-02 22:50:39 +0000
+2020-04-02 18:50:39.182 [Info] [AppDelegate.swift:147] startApplication(_:withLaunchOptions:) > startApplication end
+2020-04-02 18:50:39.215 [Info] [LeanplumIntegration.swift:160] start() > LeanplumIntegration - Setting up for Production
+2020-04-02 18:50:39.422 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2020-04-02 18:50:44.350 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
